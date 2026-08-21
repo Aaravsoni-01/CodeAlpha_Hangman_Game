@@ -6,10 +6,7 @@ Key Concepts used: Random, while loop, if-else, Strings, Lists
 """
 
 import random
-
-# ---------------------------------------------------------
 # Predefined list of 30 words (4 to 10 letters)
-# ---------------------------------------------------------
 WORD_LIST = [
     "code", "game", "list", "word",          # 4 letters
     "apple", "chair", "plane", "brain",      # 5 letters
