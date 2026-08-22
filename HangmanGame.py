@@ -1,10 +1,3 @@
-"""
-Hangman Game
-------------
-A simple text-based Hangman game.
-Key Concepts used: Random, while loop, if-else, Strings, Lists
-"""
-
 import random
 # Predefined list of 30 words (4 to 10 letters)
 WORD_LIST = [
